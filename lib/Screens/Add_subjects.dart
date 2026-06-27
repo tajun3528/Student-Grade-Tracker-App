@@ -93,7 +93,7 @@ class _AddSubjectsState extends State<AddSubjects> {
                     context.read<SubjectProvider>().addSubject(name, mark);
                     context.go('/subjects');
                   }
-                },q
+                },
               ),
             ],
           ),
