@@ -1,16 +1,21 @@
-# grade_calculator
+<<<<<<< HEAD
+# Student Grade Tracker App
 
-A new Flutter project.
+A Flutter app to manage subjects, marks, and grades with Provider state management.
 
-## Getting Started
+## Features
+- Add subjects with name and mark (validated: name not empty, mark 0–100).
+- Subject list with mark and grade.
+- Swipe-to-delete with clear indicators and delete button.
+- Summary screen showing totals, averages, overall grade, and detailed breakdown.
+- Custom light/dark themes (no hardcoded colors).
+- State managed entirely with Provider (no setState).
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/tajun3528/Student-Grade-Tracker-App.git
+   cd Student-Grade-Tracker-App
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+w
+>>>>>>> 77003e33d5d248e12e0341abf7d29b8c92d858f5
